@@ -1,0 +1,65 @@
+// Localization file
+{
+    "languages": [
+        "en",
+        "es"
+    ],
+    "texts": [
+        {
+            "id": "LifeCountLabel",
+            "text": {
+                "en": "lives",
+                "es": "vidas"
+            }
+        },
+        {
+            "id": "LevelNumLabel",
+            "text": {
+                "en": "level",
+                "es": "nivel"
+            }
+        },
+        {
+            "id": "CoinLabel",
+            "text": {
+                "en": "Coin",
+                "es": "acuñar"
+            }
+        },
+        {
+            "id": "LevelWinMsg",
+            "text": {
+                "en": "you win this level",
+                "es": "ganas este nivel"
+            }
+        },
+        {
+            "id": "GameWinMsg",
+            "text": {
+                "en": "you win",
+                "es": "tu ganas"
+            }
+        },
+        {
+            "id": "GameLoseMsg",
+            "text": {
+                "en": "you lose",
+                "es": "tú pierdes"
+            }
+        },
+        {
+            "id": "NextLevelPrompt",
+            "text": {
+                "en": "Next level unlocked. Press n to continue.",
+                "es": "Siguiente nivel desbloqueado. Presiona n."
+            }
+        },
+        {
+            "id": "QuitGamePrompt",
+            "text": {
+                "en": "press q to quit",
+                "es": "presiona q para salir"
+            }
+        }
+    ]
+}
